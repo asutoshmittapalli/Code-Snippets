@@ -1,0 +1,4 @@
+C:\Users\asuto\OneDrive\Desktop\Projects\Code-Snippets\Code Snippets\Code Snippets\obj\Debug\netcoreapp3.1\Code Snippets.csprojAssemblyReference.cache
+C:\Users\asuto\OneDrive\Desktop\Projects\Code-Snippets\Code Snippets\Code Snippets\obj\Debug\netcoreapp3.1\Code Snippets.AssemblyInfoInputs.cache
+C:\Users\asuto\OneDrive\Desktop\Projects\Code-Snippets\Code Snippets\Code Snippets\obj\Debug\netcoreapp3.1\Code Snippets.AssemblyInfo.cs
+C:\Users\asuto\OneDrive\Desktop\Projects\Code-Snippets\Code Snippets\Code Snippets\obj\Debug\netcoreapp3.1\Code Snippets.csproj.CoreCompileInputs.cache
