@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Code_Snippets
 {
-    public class ProcessEventArgs : EventArgs
+    public class ProcessEventArgs
     {
         public bool IsSuccessful { get; set; }
         public DateTime CompletionTime { get; set; }
